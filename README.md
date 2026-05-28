@@ -1,6 +1,6 @@
 # Autopartes Korea II - Landing Page
 
-Landing page profesional para empresa de repuestos coreanos. Incluye buscador de productos, formulario de contacto y diseño responsive.
+Landing page profesional para empresa de repuestos AutoPartes Korea II. Incluye buscador de productos, formulario de contacto y diseño responsive.
 
 ## Tecnologías
 - Next.js (React framework)
